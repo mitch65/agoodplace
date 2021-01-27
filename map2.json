@@ -893,7 +893,11 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
+                  "tilewidth":32
+        }, 
+        {
+         "firstgid":321,
+         "source":"wpp.tsx"
         }],
  "tilewidth":32,
  "type":"map",
