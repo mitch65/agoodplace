@@ -54,6 +54,12 @@
                  "height":223.69574730477,
                  "id":1,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"horta"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
