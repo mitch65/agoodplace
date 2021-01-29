@@ -131,7 +131,24 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":20,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"CAMPUS GMS",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":100,
+                 "x":735.833333333333,
+                 "y":6.83333333333333
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -151,7 +168,7 @@
          "y":0
         }],
  "nextlayerid":16,
- "nextobjectid":2,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
